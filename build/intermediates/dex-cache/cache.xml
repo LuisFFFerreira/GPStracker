@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/d9aa7b7538877596a29f1c79643ab24a1ae5aed5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ac4ebcb661516a8742857656043f967232e39e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/d1827a9526e9cf6879029f560d5cb9f8d1d376e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6c7363def9bc026b23701c3c7a3e3765773ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/e092c99028fbaac107ab30c8e715a03ccb0273a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f8f70411d9c6b9f7ef05a2a1a4d398b5ae7df50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/40ba273b0439389d09a985f10b20b524e8e6f8e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d10193632e36f762c1de9504e48cdba4443c7725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/ededb6c95f92944f9540aaa0833714df785b07ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45b9ce3cc6e4736fd8f7ea9c9d0397db8b2d3b7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/aadb1c98d5ad24fc176daebad3764e475286397f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c90a2e768b1a6c85452e2959904ef6a3b817dbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/7f6ab8bcafb69b7aa3612826bc9c9106061fdd2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a03c3f437fe4833fc8445499a7582787fbc0ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/b83890426ee9cc9c0444b8ae4267438e31a1e21b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f2721bacd030aec9e92de6a7b7a84eb4ee4cc74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/de7b6c50a0cc1cbd0c6cc9d3de4ca764745b5a56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_983e42cca078dd4308400e8fa2b74c025fb8d270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/46f68530d128b7a5702d6e1c27836fc1274599e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50089ef21c391363e0a749e2b9dc62df69e84a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_37806e533179a6bac625b041325b5f62fed9dfc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/3c9aec53cd3ad07c45c736da541ae35797b26e24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6da91da6ebced6799b7b46d6f7fd4826126388d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/bbce471c0387108650b256922d189b1915079715/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_114849970d905bef94cc30de4a70ddb01f698d01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/767eabeb7dbb3e154ff3503947df9633f2c1307f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1924fee58c50cd6f7d86f509dd35b8d603e9fa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/da8612538ada11b1afbe1cb1c42de0ce58f9dfd4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_505a344c157df6803184729f7758a62c2f9d57a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/f6e03f4f36b9d15ed27939f6d3305c830a3d7d3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2322fdc544fdd8529f00c3b0119274f79c10a492/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/2bbd5c348c95f29fa43d33fce40b0f8a2bcd5214/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ee64b76ff94046da27cd61a48ef38e62907e0a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b26683dae231dcd97a458a3128383cdf537346a">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d75cc56eccd33c3e9edfd1b9ba66edd479d8626c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/.android/build-cache/13e46c8a082f4c7d0fddfbabe2df90e312ffec7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0e0710635454e373b2ebe9d412d6ac690aef4fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/me/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/me/Desktop/TSM/TP2/tp2_gps/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_1066c4e5d3cb14fc5d26bd6c15c45a7b55a2a3d3/classes.dex" />
+    </item>
+
+</items>

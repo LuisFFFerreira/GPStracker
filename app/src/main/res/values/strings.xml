@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GPS Path Tracker</string>
+    <string name="startText">Tracking</string>
+    <string name="syncText">Syncing</string>
+    <string name="route_name_hint">Path Name</string>
+    <string name="startButton">Start</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="syncButton">Sync</string>
+    <string name="sosButton">SOS</string>
+    <string name="sosButtonActivated">Activated</string>
+    <string name="stopButton">Finish</string>
+    <string name="location_time">Location timer (s)</string>
+    <string name="sms_time">SMS timer (s)</string>
+
+    <string name="gps_disabled">GPS provider is OFF and therefore, the application cannot work properly. Would you like to activate it?</string>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Last Update</string>
+    <string name="sms_label">SMS</string>
+    <string name="sms_time_label">Last Sent</string>
+    <string name="sms_default_label">Sms Timer</string>
+    <string name="loc_default_label">Location Timer</string>
+
+</resources>
